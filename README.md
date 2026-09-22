@@ -10,7 +10,7 @@ Currently, I am a second-year undergraduate student, so this is a relatively fre
 
 ---
 ### Tools & Tech
-Languages: C, C++, Python 
+Programming Languages: C, C++, Python 
 
 Tools/Frameworks: Git, Docker, Make, Google Test/Google Mock, Expat, Ubuntu/Linux, Vim, HTML/CSS
 
@@ -20,7 +20,7 @@ Concepts: Data Structures, Algorithms, Big-O Analysis
 
 CAD: Autodesk Inventor, AutoCAD, Altium Designer
 
-Languages: English (Fluent), Cantonese (Conversational) 
+Spoken Languages: English (Fluent), Cantonese (Conversational) 
 
 
 ---
