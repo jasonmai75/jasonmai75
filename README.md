@@ -11,20 +11,32 @@ Currently, I am a second-year undergraduate student, so this is a relatively fre
 ---
 ### Tools & Tech
 Languages: C, C++, Python 
+
 Tools/Frameworks: Git, Docker, Make, Google Test/Google Mock, Expat, Ubuntu/Linux, Vim, HTML/CSS
+
 Engineering: Embedded Systems, PCB Design, Arduino, Debugging, OOP, Test-Driven Development 
+
 Concepts: Data Structures, Algorithms, Big-O Analysis 
+
 CAD: Autodesk Inventor, AutoCAD, Altium Designer
+
 Languages: English (Fluent), Cantonese (Conversational) 
+
 
 ---
 
 ### A Bit About Me
 🎾 I like to play tennis and enjoy competitive play a lot
+
 💪 I enjoy working out consistently
+
 🐼 I worked as a cook at Panda Express this summer (2026)
+
 📈 I invested in stocks this year and take pride in gaining a 20% yield within ~6 months
+
 🖥️ I developed a genuine passion for embedded systems this summer and I'm currently self-studying it through any means possible
+
 🏫 I am excited for school and any opportunity that may come my way!
+
 
 ## Thank you for viewing my profile, I hope you enjoy.
