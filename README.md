@@ -39,4 +39,4 @@ Languages: English (Fluent), Cantonese (Conversational)
 🏫 I am excited for school and any opportunity that may come my way!
 
 
-_## Thank you for viewing my profile, I hope you enjoy._
+### _Thank you for viewing my profile, I hope you enjoy._
